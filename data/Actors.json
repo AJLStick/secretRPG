@@ -1,8 +1,8 @@
 [
 null,
 {"id":1,"battlerName":"AJLbtl","characterIndex":0,"characterName":"AJL","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"AJL","traits":[],"initialLevel":1,"maxLevel":99,"name":"AJL","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"oldmanbtl","characterIndex":0,"characterName":"oldman","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"oldmanface","traits":[],"initialLevel":1,"maxLevel":99,"name":"Old Man","nickname":"oldman","note":"","profile":""},
 {"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":5,"battlerName":"AJLbtl","characterIndex":0,"characterName":"AJL","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"AJL","traits":[],"initialLevel":1,"maxLevel":99,"name":"AJL","nickname":"","note":"","profile":""}
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
